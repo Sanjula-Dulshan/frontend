@@ -1,7 +1,8 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { StreamsComponent } from './streams/streams.component';
 
+import { InternalRoutingModule } from './internal-routing.module';
+import { StreamsComponent } from './streams/streams.component';
 
 
 @NgModule({
@@ -9,7 +10,8 @@ import { StreamsComponent } from './streams/streams.component';
     StreamsComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    InternalRoutingModule
   ]
 })
 export class InternalModule { }

@@ -12,8 +12,14 @@ export class StreamsComponent implements OnInit {
   constructor(private streamService: StreamsService) {}
 
   ngOnInit(): void {
-    this.streamService.getStreams().subscribe((data) => {
-      this.streams = data;
+    this.streamService.getStreams().subscribe({
+      next: (res: any) => {
+        this.streams = res;
+        console.log('res>> ', res);
+      },
+      error: (err) => {
+        console.log('error>>> ', err);
+      },
     });
   }
 }

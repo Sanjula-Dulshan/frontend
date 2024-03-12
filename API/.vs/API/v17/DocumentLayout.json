@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EB0B814-6E77-4388-9D7E-98C3E0BF6117}|API\\API.csproj|e:\\sliit\\3 rd year\\1st sem\\i.g. sanjula dulshan\\i wonder\\daily work\\20240311\\task 3\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2EB0B814-6E77-4388-9D7E-98C3E0BF6117}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EB0B814-6E77-4388-9D7E-98C3E0BF6117}|API\\API.csproj|e:\\sliit\\3 rd year\\1st sem\\i.g. sanjula dulshan\\i wonder\\daily work\\20240311\\task 3\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EB0B814-6E77-4388-9D7E-98C3E0BF6117}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,24 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T06:02:54.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "StreamService.cs",
               "DocumentMoniker": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\Services\\StreamService.cs",
               "RelativeDocumentMoniker": "API\\Services\\StreamService.cs",
@@ -67,12 +50,11 @@
               "RelativeToolTip": "API\\Services\\StreamService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:51:56.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T16:51:56.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Streams.cs",
               "DocumentMoniker": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\Models\\Streams.cs",
               "RelativeDocumentMoniker": "API\\Models\\Streams.cs",
@@ -80,12 +62,11 @@
               "RelativeToolTip": "API\\Models\\Streams.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:44:05.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T16:44:05.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IStreamService.cs",
               "DocumentMoniker": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\Services\\IStreamService.cs",
               "RelativeDocumentMoniker": "API\\Services\\IStreamService.cs",
@@ -93,25 +74,24 @@
               "RelativeToolTip": "API\\Services\\IStreamService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:42:39.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T16:42:39.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T14:47:06.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "IDatabaseSettings.cs",
               "DocumentMoniker": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\Database\\IDatabaseSettings.cs",
               "RelativeDocumentMoniker": "API\\Database\\IDatabaseSettings.cs",
@@ -119,12 +99,11 @@
               "RelativeToolTip": "API\\Database\\IDatabaseSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T14:44:37.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T14:44:37.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "DatabaseSettings.cs",
               "DocumentMoniker": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\Database\\DatabaseSettings.cs",
               "RelativeDocumentMoniker": "API\\Database\\DatabaseSettings.cs",
@@ -132,12 +111,11 @@
               "RelativeToolTip": "API\\Database\\DatabaseSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T14:45:00.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T14:45:00.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StreamController.cs",
               "DocumentMoniker": "E:\\SLIIT\\3 rd year\\1st sem\\I.G. Sanjula Dulshan\\I wonder\\Daily Work\\20240311\\Task 3\\API\\API\\Controllers\\StreamController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\StreamController.cs",
@@ -145,8 +123,7 @@
               "RelativeToolTip": "API\\Controllers\\StreamController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA1wCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T17:08:51.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T17:08:51.816Z"
             }
           ]
         }

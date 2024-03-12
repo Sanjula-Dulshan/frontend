@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
 export class StreamsService {
   constructor(private http: HttpClient) {}
 
-  url: string = 'https://localhost:7148/api/Stream';
+  url: string = '/api/Stream';
 
   getStreams() {
     return this.http.get(this.url);

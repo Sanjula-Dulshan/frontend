@@ -1,7 +1,10 @@
-﻿namespace API.Services
+﻿using API.Models;
+
+namespace API.Services
 {
     public interface IStreamService
     {
-        List<Stream> Get();
+        List<Streams> Get();
+        Streams Create(Streams stream);
     }
 }

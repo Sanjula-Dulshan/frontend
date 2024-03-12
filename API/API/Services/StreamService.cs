@@ -1,5 +1,6 @@
 ﻿
 using API.Database;
+using API.Models;
 using MongoDB.Driver;
 
 namespace API.Services
@@ -7,17 +8,21 @@ namespace API.Services
     public class StreamService : IStreamService
     {
 
-        private readonly IMongoCollection<Stream> _streams;
-        private readonly IStreamService streamService;
-        public StreamService(IDatabaseSettings settings, IMongoClient mongoClient, IStreamService streamService)
+        private readonly IMongoCollection<Streams> _streams;
+        public StreamService(IDatabaseSettings settings, IMongoClient mongoClient)
         {
             var database = mongoClient.GetDatabase(settings.DatabaseName);
-            _streams = database.GetCollection<Stream>(settings.StreamsCollectionName);
-
-            this.streamService = streamService;
+            _streams = database.GetCollection<Streams>(settings.StreamsCollectionName);
 
         }
-        public List<Stream> Get()
+
+        public Streams Create(Streams stream)
+        {
+           _streams.InsertOne(stream);
+            return stream;
+        }
+
+        public List<Streams> Get()
         {
            return _streams.Find(stream=>true).ToList();
         }
